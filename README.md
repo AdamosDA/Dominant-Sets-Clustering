@@ -16,8 +16,11 @@ To reproduce this tutorial in MATLAB you will need :
 In the provided example in the tutorial, clustering will be applied on the coordinates of the data (spikes) in ISOMAP space.
 Any other multidimensional coordinates/features (even raw waveforms) may be used. Results will not be identical each time, as the algorithm is randomly initialized when approaching the adjacency matrix of the graph.
 
+
 For further details and to cite this work, see:
 
 **Adamos DA**, Laskaris NA, Kosmidis EK, Theophilidis G, “[In quest of the missing neuron: Spike sorting based on dominant-sets clustering](http://dx.doi.org/10.1016/j.cmpb.2011.10.015)“. Computer Methods and Programs in Biomedicine 2012, vol.107 (1), pp.28-35. 
 
 For more information see: [http://neurobot.bio.auth.gr/spike-sorting](http://neurobot.bio.auth.gr/spike-sorting/)
+
+(C) D.A. Adamos, 2012.
